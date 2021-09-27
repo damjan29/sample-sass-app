@@ -1,2 +1,2 @@
 # sample-portfolio
-Sample app for sass portfolio tutorial
+Sample website for sass portfolio tutorial
