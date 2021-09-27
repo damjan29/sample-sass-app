@@ -1,2 +1,2 @@
 # sample-portfolio
-Sample website for sass portfolio tutorial
+Sample portfolio website using HTML, SASS and vanilla JS.
